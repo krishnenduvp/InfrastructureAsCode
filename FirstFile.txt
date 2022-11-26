@@ -1,2 +1,3 @@
 Hello World
 Adding content from GitHub web GUI
+Adding content to test git checkout/restore
